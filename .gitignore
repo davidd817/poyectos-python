@@ -1,1 +1,25 @@
 .ipynb_checkpoints/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local environment and tooling files
+.env
+.env.*
+.python-version
+
+# Temporary and operating-system files
+*.tmp
+*.temp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
